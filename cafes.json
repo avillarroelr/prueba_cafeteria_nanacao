@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Cortado"
+    "nombre": "Fantastic Wooden Hat"
   },
   {
     "id": 2,
@@ -14,5 +14,13 @@
   {
     "id": 4,
     "nombre": "Cappuccino"
+  },
+  {
+    "id": 131,
+    "nombre": "Ergonomic Wooden Pants"
+  },
+  {
+    "id": 621,
+    "nombre": "Gorgeous Bronze Hat"
   }
 ]

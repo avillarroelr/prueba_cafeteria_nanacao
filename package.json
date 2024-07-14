@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --coverage --forceExit",
     "test:watch": "jest --forceExit"
   },
   "author": "",
